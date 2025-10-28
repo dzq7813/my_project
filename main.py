@@ -2,7 +2,7 @@ import sys
 import tkinter as tk
 from tkinter import ttk
 import webbrowser
-
+##修改测试
 
 class TabbedApp(tk.Tk):
     LINK_URL = "https://docs.python.org/zh-cn/3/library/tkinter.ttk.html"
