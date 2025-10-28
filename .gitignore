@@ -1,0 +1,6 @@
+# 忽略 Python 临时文件
+__pycache__/
+*.pyc
+
+# 忽略本地生成的输出
+story_json/
