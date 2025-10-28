@@ -1,2 +1,2 @@
+ImportError
 print('afsa')
-阿舒服
