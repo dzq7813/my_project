@@ -1,0 +1,6 @@
+{
+  "appName": "TabbedApp",
+  "windowTitle": "示例：Tkinter 标签页",
+  "defaultTheme": "clam",
+  "telemetryEnabled": false
+}
